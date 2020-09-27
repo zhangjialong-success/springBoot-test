@@ -8,5 +8,7 @@ public class Application {
         SpringApplication.run(Application.class,args);
         System.out.println(222);
         System.out.println("郑帅哥到此一游");
+
+        System.out.println("push");
     }
 }
