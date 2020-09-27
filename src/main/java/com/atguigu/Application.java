@@ -9,7 +9,6 @@ public class Application {
         System.out.println(222);
         System.out.println("郑帅哥到此一游");
         System.out.println("push");
-        System.out.println("请修改此处!!佛爱迪生粉碎偶的非农is打开");
-        System.out.println("我！就！不！ 改！   老毛1.0!!");
+        System.out.println("我就不改！!");
     }
 }
